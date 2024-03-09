@@ -23,4 +23,4 @@ The challenge is to create a layout using CSS Flexbox to achieve a specific desi
 
 ## Example Layout
 
-![Example Layout](screenshot/defaul.png)
+![Example Layout](screenshot/default.png)
